@@ -1,0 +1,14 @@
+# Backend
+target/
+*.class
+
+# Security (CRITICAL)
+.env
+
+# Frontend
+doc-intelligence-ui/node_modules/
+doc-intelligence-ui/dist/
+
+# IDE & Uploads
+.vscode/
+uploads/
